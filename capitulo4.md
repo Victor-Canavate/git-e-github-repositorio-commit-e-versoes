@@ -8,3 +8,7 @@ git switch [nome da branch]
 
 git branch
 • Este comando te possibilita ver quais branchs foram criadas para o repositório e em qual você está operando
+
+git merge [nome da branch que você gostaria de mesclar]
+• Com uma branch selecionada, você pode usar o git merge para mesclar esta com outra branch presente em seu repositório
+(Exemplo: git merge desenvolvimento)
